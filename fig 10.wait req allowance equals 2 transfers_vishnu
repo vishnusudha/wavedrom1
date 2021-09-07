@@ -1,0 +1,7 @@
+{signal: [
+  {name: "clk",            		 wave: "n............"},
+  {name: "write",				 wave: "0101.0101...."},
+  {name: "waitrequest",			 wave: "0.1...0.10..."},
+  {name: "data[7:0]",			 wave: "x2x222.x222.2"},
+  
+]}

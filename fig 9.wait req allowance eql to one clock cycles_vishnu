@@ -1,0 +1,8 @@
+{signal: [
+  {name: "clk",            		 wave: "n.............."},
+  
+  {name: "write",				 wave: "01..01.0101.010"},
+  {name: "waitrequest",			 wave: "0..1.0..1.01.0."},
+  {name: "data[7:0]",			 wave: "x222x22x2x22x2x", data:["A0","A1","A2","A3","A4","B0","B1","B2","B3"]},
+  
+]}
